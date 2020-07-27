@@ -1,0 +1,144 @@
+body{
+text-align: center;
+font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  font-size: 90px;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color:#66BFBF;
+
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+
+}
+.top-container{
+   background-color: #cbeaed;
+   padding-top: 50px;
+   font-family: Sacramento,cursive;
+
+ }
+.middle-container{
+padding-top: 30px;
+}
+.bottom-container{
+  color:#11999E;
+  background-color: #66BFBF;
+  height:150px;
+  padding-top: 20px;
+
+}
+.cloud1{
+  position:absolute;
+  top:200px;
+  left:16rem;
+}
+.cloud2{
+
+position:absolute;
+right:16rem;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+.head{
+  font-size: 1.2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.footer-link{
+  color:#11999E;
+}
+.number{
+  color:#11999E;
+}
+.btn{
+  color:#11999E;
+}
+.skill-row{
+  width:50%;
+  text-align:left;
+  margin: 100px auto 100px auto;
+line-height: 1.5;
+}
+.web{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.games{
+  width:25%;
+  float: right;
+  margin-left: 20px;
+}
+.dot{
+  width:5%;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+
+}
+.pt{
+  color: #050505;
+}
+.jaleel{
+width:15%;
+height: 15%;
+}
+.skills{
+  padding-top: 40px;
+}
+.profile{
+  margin-bottom: 30px;
+}
+.insta{
+  position: absolute;
+  right:450px;
+  margin-top: 50px;
+margin-right: 30px;
+}
+.email{
+  position: absolute;
+  left:450px;
+  margin-top: 50px;
+  margin-left: 30px;
+  height: 50px;
+
+}
+.facebook{
+margin-top: 50px;
+}
+.end{
+  margin-top: 50px;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+.point{
+  width:5%;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+
+}
+.contact-me{
+margin-top: : 40px
+
+}
+p{
+  line-height: 2;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6
+}
